@@ -1,0 +1,40 @@
+
+.success-message-card{
+    display: none;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 100vw;
+    height: 100vh;
+    padding: 24px 24px 40px 24px;
+    border-radius: 0;
+    background-color: hsl(0, 0%, 100%); /* White */
+}
+
+@media (width >= 768px){
+    .success-message-card{
+        align-items: flex-start;
+        padding: clamp(24px, 5%, 64px);
+        padding-top: 48px;
+        gap: 3rem;
+        border-radius: 32px;
+        height: 100%;
+        max-width: 500px;
+    }
+}
+
+.success-message-card img{
+    width: 64px;
+    height: 64px;
+}
+
+.success-message-card div{
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+
+@media (max-width : 768px){
+    .success-message-card div{
+        margin-bottom: 50%;
+    }
+}
