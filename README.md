@@ -21,11 +21,6 @@ Users should be able to:
 ![](./screenshot-newsletter-sign-up-with-success-message-desktop.png)
 
 
-### Screenshot Mobile
-
-![](./screenshot-newsletter-sign-up-with-success-message-mobile.png)
-
-
 ### Links
 
 - Solution URL: [ https://github.com/code-llzmt/newsletter-sign-up-form-with-success-message.git ]
