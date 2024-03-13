@@ -28,5 +28,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ https://github.com/code-llzmt/newsletter-sign-up-form-with-success-message.git ]
+- Live Site URL: [ https://code-llzmt.github.io/newsletter-sign-up-form-with-success-message ]
